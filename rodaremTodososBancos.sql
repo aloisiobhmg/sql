@@ -48,11 +48,12 @@ FROM   ban_agencia AS ba
 
 SELECT *
 FROM   ban_conta_corrente AS bcc
+  --   UPDATE ban_carteira_cobrancaSET cac_numero_caracteres_nosso_numero = '8'
 
 */
 
 
        
        
-    --   UPDATE ban_carteira_cobrancaSET cac_numero_caracteres_nosso_numero = '8'
+  
        
